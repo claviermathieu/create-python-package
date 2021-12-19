@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+dprm/__init__.py
+dprm/lib1.py
+dprm.egg-info/PKG-INFO
+dprm.egg-info/SOURCES.txt
+dprm.egg-info/dependency_links.txt
+dprm.egg-info/top_level.txt
